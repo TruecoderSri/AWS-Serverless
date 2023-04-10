@@ -1,4 +1,4 @@
-# AWS-Serverless
+# AWS-Serverless 👇
  Serverless Web depoloyment by leveraging AWS services namely AWS Amplify,AWS Cognito,AWS DynamoDB,AWS Lambda,API Gateway
 
 
