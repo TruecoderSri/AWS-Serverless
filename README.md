@@ -18,3 +18,4 @@
     <p> At last I updated the invokeURL on config.js to fetch the function. </p>
 
 ### PS: Due to some issue with my aws account I am currently unable to access the AWS resources to render the full website. Presently, only the static landing page is available. So I decided to mention what all I did on the project in this readme. I apologize for the same.</h3> 
+<h3>link: https://truecodersri.github.io/AWS-Serverless/
